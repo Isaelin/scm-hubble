@@ -1,2 +1,2 @@
-dataURL: https://autodesk.github.io/hubble/demo-data
+dataURL: https://github.com/Isaelin/scm-hubble-data.git
 exclude: ['spec', 'node_modules', 'README.md', '.gitignore', 'package.json', 'package-lock.json']
